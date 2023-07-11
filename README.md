@@ -1,4 +1,4 @@
-# Çizim Tahtası
-Bu proje HTML-CSS-JS ile oluşturulmuş çizim tahtası uygulamasıdır.
+# Drawing Board
+This project is a drawing board application built with HTML-CSS-JS.
 
-Örnek: https://onurkul.com.tr/araclar/cizim-tahtasi/
+Example: https://onurkul.com.tr/araclar/cizim-tahtasi/
